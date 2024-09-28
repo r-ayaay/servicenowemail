@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains>
+        <role display_value="x_1520376_test.agent" name="x_1520376_test.agent">633fbaaf83341210178e95d6feaad347</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 18:20:13</sys_created_on>
+        <sys_id>fb3fbaaf83341210178e95d6feaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_creatorstudio.basic_fulfiller.x_1520376_test.agent</sys_name>
+        <sys_package display_value="test" source="x_1520376_test">a63fb6af83341210178e95d6feaad33a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a63fb6af83341210178e95d6feaad33a</sys_scope>
+        <sys_update_name>sys_user_role_contains_fb3fbaaf83341210178e95d6feaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 18:20:13</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

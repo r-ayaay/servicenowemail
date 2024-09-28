@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d55fbaef83341210178e95d6feaad324</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1520376_test_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 18:20:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>555fbaef83341210178e95d6feaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="test" source="x_1520376_test">a63fb6af83341210178e95d6feaad33a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a63fb6af83341210178e95d6feaad33a</sys_scope>
+        <sys_update_name>par_dashboard_widget_555fbaef83341210178e95d6feaad355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 18:20:37</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a63fb6af83341210178e95d6feaad33a</application>
+        <file_path/>
+        <instance_id>c1435e75db96f110ebdd2a5913961903</instance_id>
+        <instance_name>dev204496</instance_name>
+        <name>par_dashboard_widget_555fbaef83341210178e95d6feaad355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d55fbaef83341210178e95d6feaad324</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1520376_test_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-28 18:20:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>555fbaef83341210178e95d6feaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="test" source="x_1520376_test">a63fb6af83341210178e95d6feaad33a</sys_package><sys_policy/><sys_scope display_value="test">a63fb6af83341210178e95d6feaad33a</sys_scope><sys_update_name>par_dashboard_widget_555fbaef83341210178e95d6feaad355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-28 18:20:37</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>421346919</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6a3fb6af83341210178e95d6feaad397</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 18:20:37</sys_created_on>
+        <sys_id>555fbaef83341210178e95d6feaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19239dcfd5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 18:20:37</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>595fbaefdc3412100735f703bc3b3256</update_guid>
+        <update_guid_history>595fbaefdc3412100735f703bc3b3256:421346919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e55fbaef83341210178e95d6feaad3a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 18:20:37</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>4ac63561c77a4e68822a692328955710</sys_id>
+        <sys_metadata>555fbaef83341210178e95d6feaad355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test" source="x_1520376_test">a63fb6af83341210178e95d6feaad33a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test">a63fb6af83341210178e95d6feaad33a</sys_scope>
+        <sys_scope_delete display_value="">534ebb3d151941719ef4f7a5067d4d19</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_555fbaef83341210178e95d6feaad355</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_555fbaef83341210178e95d6feaad355">555fbaef83341210178e95d6feaad357</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 18:20:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
